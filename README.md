@@ -37,7 +37,8 @@ PID  PROJECT                                STACK                        STATE
 
 ```diff
 + GPA 9.52 / 10 — Computer Science @ CIn-UFPE
-+ 13 olympiad medals in math, physics & astronomy — incl. gold at Kangaroo Math (intl.) and Math Without Borders
++ 13 olympiad medals in math, physics & astronomy
++ Gold at Kangaroo Math (intl.) and Math Without Borders
 + Admitted to CS @ USP (Fuvest) · 2nd place at CESAR School's entrance exam, twice
 + Teaching assistant · Intro to Programming, 2 semesters
 ```
